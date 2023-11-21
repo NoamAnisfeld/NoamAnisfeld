@@ -1,28 +1,8 @@
-[Protfolio](https://noamanisfeld.github.io/NoamAnisfeld/)
+## Welcome to Noam's GitHub space, hope you'll enjoy.
+### Here you can find tea and cookies 🫖🍪🍪🍪 . Please make sure to enable cookies in order to enjoy them.
 
-Welcome to Noam's GitHub space, hope you'll enjoy.
-Here you can find tea and cookies 🫖🍪🍪🍪
+My roots in programming and computer science go as far back as to my days in elementary school, playing around with QBasic and batch scripts.
 
-I am a frontend developer and am very enthauistic about code.
-One of my favorite hobbies is helping others with their coding issues.
+I consider myself a fullstack/frontend developer, expertising in JavaScript, TypeScript, React and the browser ecosystem in general, but also holding knowledge in other server-side languages and tools.
 
-To quote Oren, owner of "Online Dev Helpers" Discord server:
-"[Noam has] exepctional problem-solving skills, relative to his level of experience". 😉
-
-# Notable repositories
-## Puzzle Generator
-  React, TypeScript, unique UI, SVG paths manipulation  
-  [[Repo](https://github.com/NoamAnisfeld/PuzzleImage)] [[Deploy](https://noamanisfeld.github.io/PuzzleImage/)]
-
-## Calculator
-  Vanilla JS, TypeScript,Layers Architecture (engine/UI), CSS grid layout  
-  [[Repo](https://github.com/NoamAnisfeld/Calculator)]  [[Deploy](https://noamanisfeld.github.io/Calculator/)]
-
-## Weather Viewer
-  React, TypeScript, external API, mock API for development, React Bootstrap  
-  [[Repo](https://github.com/NoamAnisfeld/weather-viewer)]  [[Deploy](https://noamanisfeld.github.io/weather-viewer/)]
-  
-## AnisClock
-  A funny mini-app - lets you watch the clock turning into the hour you like  
-  Vanilla JS  
-  [[Repo](https://github.com/NoamAnisfeld/AnisClock)] [[Deploy](https://noamanisfeld.github.io/AnisClock/)]
+I like helping others debugging their code or solving their issues, that's why I go to StackOverflow and other help forums. In my current job, I'm also mentoring software development students during their journey.
